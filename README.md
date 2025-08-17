@@ -12,8 +12,8 @@ This salary dashboard was created to help job seekers research salaries for thei
 The data is from my Excel course, which provides a foundation in analysing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
-The main project file, which you can edit as you like, is located in 
+My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
+The main project file, which you can edit as you like, is located in [(Full FIle)_Salary_Dashboard.xlsx]((Full FIle)_Salary_Dashboard.xlsx)
 
 ### Excel Skills Used
 
