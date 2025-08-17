@@ -1,19 +1,23 @@
-# Excel Salary Dashboard
-
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+## Excel Salary Dashboard
+-- **Timeline**
+- **Theory Study & Application: 10–15 August 2025**
+- **Project Execution: 16 August 2025**
+- **Project Upload: 17 August 2025**
+![Resources](/Resources/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+This salary dashboard was created to help job seekers research salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The data is from my Excel course, which provides a foundation in analysing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+The main project file, which you can edit as you like, is located in 
 
 ### Excel Skills Used
 
-The following Excel skills were utilized for analysis:
+The following Excel skills were utilised for analysis:
 
 - **📉 Charts**
 - **🧮 Formulas and Functions**
@@ -21,7 +25,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world Data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analysing data using Excel. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -34,19 +38,19 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/Resources/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
-- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
+- 🛠️ **Excel Features:** Utilised bar chart feature (with formatted salary values) and optimised layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
+- 📉 **Data Organisation:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Chart2.png](/Resources/1_Salary_Dashboard_Country_Map.gif)
 
-- 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
-- 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
+- 🛠️ **Excel Features:** Utilised Excel's map chart feature to plot median salaries globally.
+- 🎨 **Design Choice:** Colour-coded map to visually differentiate salary levels across regions.
 - 📊 **Data Representation:** Plotted median salary for each country with available data.
 - 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 - 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
@@ -78,7 +82,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="/Resources/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +95,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Type.png](/Resources/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="/Resources/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
@@ -106,8 +110,8 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="/Resources/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilising data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
