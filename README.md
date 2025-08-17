@@ -15,12 +15,13 @@ The data is from my Excel course, which provides a foundation in analysing data 
 My final dashboard is in [Salary_Dashboard(Excel)](Salary_Dashboard_For_Excel/Salary_DashBoard.xlsx).
 
 The main project file, which you can edit as you like, is located in [Salary Dashboard(Excel)](Salary_Dashboard_For_Excel/Full-File_Salary_Dashboard.xlsx).
+
 -**Open these files in Microsoft Excel, as Google Sheets does not support Map allocation.**
 
 ### DashBoard File For Google Sheets
-My final dashboard is in [Salary_Dashboard(Google_Sheets)]().
+My final dashboard is in [Salary_Dashboard(Google_Sheets)](Salary_Dashboard_For_Google_Sheets/Salary_DashBoard(GS).xlsx).
 
-The main project file, which you can edit as you like, is located in [Salary_Dashboard(Google_Sheets)]().
+The main project file, which you can edit as you like, is located in [Salary_Dashboard(Google_Sheets)](Salary_Dashboard_For_Google_Sheets/Full-File_Salary_Dashboard(GS).xlsx).
 ### Excel Skills Used
 
 The following Excel skills were utilised for analysis:
